@@ -7,4 +7,6 @@ const stala= txt.parseInt();
 console.log(stala+10);
 
 gfgfdgdf
+dfdf
+sgf
 ereer
